@@ -1,8 +1,4 @@
-
-//PROYECTO DE CLARO  MOBIL NG REALIZADO POR DIEGO ESTEPA
 package MapsObjet;
-
-
 
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
@@ -20,7 +16,6 @@ public class MapObjectDatos extends ClaseBase
 		this.driver = driver;
 
 	}
-	
 	
 	
 	
