@@ -23,6 +23,9 @@ import java.io.File;
 
 import org.testng.annotations.AfterClass;
 
+//RUN CREADO PARA DESBUGEAR AMBAS CLASES 
+
+
 public class RunPagos 
 
 {
